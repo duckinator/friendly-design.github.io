@@ -32,6 +32,17 @@ Throughout the rest of this document, I will further expand on these points.
 
 [WIP]
 
+An extremely common failure when using flat design is having insufficient
+contrast between text and background colors. To that end, all color text and
+background color combinations in interfaces should pass at least AA level for
+WCAG 2.0 contrast ratio ... https://leaverou.github.io/contrast-ratio/
+
+Another common failure of interfaces following flat design principles is simplifying
+things to the point that you can't differentiate between elements on the page
+&mdash; e.g., buttons which are indistinguishable from a textarea with text in
+it which are indistinguishable from a mere section of content with a different
+background color.
+
 The failures are more with the interpretations of flat design than of flat design itself.
 
 * Low-contrast text
