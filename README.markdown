@@ -1,10 +1,10 @@
 # Friendly Design
 
-Friendly design is an interface design aiming for minimalism, but explicitly
-prioritizing accessibility and understandability. A significant part of this is
-explicitly adding design details in areas for purposes of disambiguations and
-following guidelines related to accessibility and usability, such as those from
-the [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative)
+Friendly design is an interface design style aiming for minimalism, but
+explicitly prioritizing accessibility and understandability. A significant part
+of this is explicitly adding design details in areas for purposes of
+disambiguations and following guidelines related to accessibility and usability,
+such as those from the [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative)
 (WAI).
 
 ## Comparison to flat design
