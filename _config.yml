@@ -1,0 +1,9 @@
+source: .
+destination: ./_site
+
+safe: true
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+markdown: redcarpet
+excerpt_separator: "\n\n"
