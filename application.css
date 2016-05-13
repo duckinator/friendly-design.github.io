@@ -27,6 +27,11 @@ h1, h2 { margin: 0; }
 h1 { padding: 0.5em 0; }
 h2 { padding-bottom: 1em; }
 
-main {
-  max-width: 960px;
+main, nav .inner {
+  max-width: 80ch;
+  margin: auto;
+}
+
+nav {
+  background: #07A0C3;
 }

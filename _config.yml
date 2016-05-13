@@ -5,5 +5,5 @@ safe: true
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-markdown: redcarpet
+markdown: kramdown
 excerpt_separator: "\n\n"
