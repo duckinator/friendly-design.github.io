@@ -3,8 +3,6 @@ title: Friendly Design
 layout: default
 ---
 
-# Friendly Design
-
 Friendly design is an interface design style aiming for minimalism, but
 explicitly prioritizing accessibility and understandability. A significant part
 of this is explicitly adding design details in areas for purposes of
