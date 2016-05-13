@@ -1,3 +1,8 @@
+---
+title: Friendly Design
+layout: default
+---
+
 # Friendly Design
 
 Friendly design is an interface design style aiming for minimalism, but
