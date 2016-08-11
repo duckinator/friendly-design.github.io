@@ -12,8 +12,8 @@
     <div class="inner">
       <h1>Friendly Design</h1>
       <ul><!--
-        --><li><a href="/" class="{{ page.class == 'home' ? 'active' : '' }}">Home</a></li><!--
-        --><li><a href="/examples" class="{{ page.class == 'examples' ? 'active' : '' }}">Examples</a></li>
+        --><li><a href="/" class="{% if page.bodyClass == 'home' %}active{% endif %}">Home</a></li><!--
+        --><li><a href="/examples" class="{% if page.bodyClass == 'examples' %}active{% endif %}">Examples</a></li>
       </ul>
     </div>
   </nav>
