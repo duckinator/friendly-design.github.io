@@ -11,7 +11,7 @@ accessibility and usability, such as those from the
 [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative)
 (WAI).
 
-## Comparison to flat design
+<h2 id="comparison-flat-design"><a href="#comparison-flat-design">Comparison To Flat Design</a></h2>
 
 Friendly design is related to flat design. I recommend reading
 [the Wikipedia page](https://en.wikipedia.org/wiki/Flat_design) as well as
@@ -21,7 +21,8 @@ From The Next Web's article:
 
 _"In laymen’s terms, this means removing stylistic characters such as drop shadows, gradients, textures, and any other type of design that is meant to make the element feel three-dimensional."_
 
-## Key Differences
+<h2 id="key-differences"><a href="#key-differences">Key
+Differences</a></h2>
 
 The key differences between flat design and friendly design are that
 friendly design:
@@ -31,7 +32,7 @@ friendly design:
 
 Throughout the rest of this document, I'll further expand on these points.
 
-## Following Accessibility and Usability Standards and Guidelines
+<h2 id="following-standards-guidelines"><a href="#following-standards-guidelines">Following Accessibility and Usability Standards and Guidelines</a></h2>
 
 All interfaces, not just websites, should follow applicable
 [Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative)
