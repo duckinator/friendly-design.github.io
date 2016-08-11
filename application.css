@@ -50,7 +50,7 @@ nav li {
   display: inline-block;
 }
 
-nav li a {
+nav li a, nav li a:visited {
   padding: 1em;
   color: black;
   border-right: 1px solid black;
