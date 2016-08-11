@@ -39,7 +39,7 @@ All interfaces, not just websites, should follow applicable
 standards and guidelines, including the [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)
 (WCAG).
 
-## Common Design Failures, And How To Avoid Them
+<h2 id="common-failures"><a href="#common-failures">Common Design Failures, And How To Avoid Them</a></h2>
 
 An extremely common failure when using flat design is having insufficient
 contrast between text and background colors. To that end, interfaces
