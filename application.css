@@ -48,18 +48,18 @@ nav ul {
 
 nav li {
   display: inline-block;
-  border-right: 1px solid black;
-}
-nav li:last-child {
-  border-right: none;
 }
 
 nav li a {
   padding: 1em;
   color: black;
+  border-right: 1px solid black;
 }
 nav li:first-child a {
   margin-left: -1em;
+}
+nav li:last-child a {
+  border-right: none;
 }
 
 nav li a:hover, nav li a.active {
