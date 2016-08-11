@@ -9,8 +9,8 @@ class: examples
 Windows 10's calendar popup, accessible by clicking on the time/date in
 the bottom-right corner of the screen, has two problems.
 
-![Windows 10's calendar, with hard-to-read purple text on a dark gray
-background](/images/windows-calendar.png)
+<img alt="Windows 10's calendar, with hard-to-read purple text on a dark
+gray background" src="/images/windows-calendar.png" height="300">
 
 First, the contrast between the gray background and the purple text has
 [a contrast ratio of
