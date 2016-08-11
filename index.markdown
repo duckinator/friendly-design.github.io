@@ -31,6 +31,13 @@ friendly design:
 
 Throughout the rest of this document, I'll further expand on these points.
 
+## Following Accessibility and Usability Standards and Guidelines
+
+All interfaces, not just websites, should follow applicable
+[Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative)
+standards and guidelines, including the [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)
+(WCAG).
+
 ## Common Design Failures, And How To Avoid Them
 
 An extremely common failure when using flat design is having insufficient
@@ -54,9 +61,3 @@ nothing else. This should be avoided to the extent it is possible.
 Meeting the WCAG 2.0 guidelines for contrast ensures the readability
 of the interface.
 
-## Following Accessibility addnd Usability Standards and Guidelines
-
-Interfaces should follow applicable
-[Web Accessibility Initiative](https://en.wikipedia.org/wiki/Web_Accessibility_Initiative)
-standards and guidelines, including the [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines)
-(WCAG).
