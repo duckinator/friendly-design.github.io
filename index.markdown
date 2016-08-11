@@ -1,6 +1,7 @@
 ---
 title: Friendly Design
 layout: default
+class: home
 ---
 
 Friendly design is an interface design style aiming for minimalism, but
