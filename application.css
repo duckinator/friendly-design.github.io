@@ -27,9 +27,13 @@ h1, h2 { margin: 0; }
 h1 { padding: 0.5em 0; }
 h2 { padding-top: 1em; }
 
-main, nav .inner {
+main, nav .inner, footer {
   max-width: 80ch;
   margin: auto;
+}
+
+main {
+  padding-bottom: 2em;
 }
 
 nav {
