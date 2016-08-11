@@ -25,7 +25,7 @@ h5 { font-size: 1.1em; }
 
 h1, h2 { margin: 0; }
 h1 { padding: 0.5em 0; }
-h2 { padding-bottom: 1em; }
+h2 { padding-top: 1em; }
 
 main, nav .inner {
   max-width: 80ch;
