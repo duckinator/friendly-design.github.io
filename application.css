@@ -56,7 +56,13 @@ nav li:last-child {
 
 nav li a {
   padding: 1em;
+  color: black;
 }
 nav li:first-child a {
   margin-left: -1em;
+}
+
+nav li a:hover, nav li a.active {
+  background: black;
+  color: #07A0C3;
 }
