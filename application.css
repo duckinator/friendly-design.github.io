@@ -39,3 +39,24 @@ main {
 nav {
   background: #07A0C3;
 }
+
+nav ul {
+  display: block;
+  margin: 0;
+  padding: 1em 0;
+}
+
+nav li {
+  display: inline-block;
+  border-right: 1px solid black;
+}
+nav li:last-child {
+  border-right: none;
+}
+
+nav li a {
+  padding: 1em;
+}
+nav li:first-child a {
+  margin-left: -1em;
+}
